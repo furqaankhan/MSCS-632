@@ -1,0 +1,8 @@
+Creating account for user Furqaan with $1000 amount.
+Adding $500 to your account.
+Trying to withdraw $300 amount.
+Valid withdrawal amount!
+Borrowing account data without taking ownership.
+Furqaan's balance: $1200
+Ownership returned to main after the borrow ends.
+Account memory was released when ownership was dropped.
