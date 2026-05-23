@@ -1,0 +1,14 @@
+[0.003s][info][gc] Using G1
+Before allocation used memory: 1260 KB
+Creating account for user Furqaan with $1000 amount.
+Adding $500 to your account.
+Trying to withdraw $300 amount.
+Valid withdrawal amount!
+Furqaan's balance: $1200
+[0.028s][info][gc] GC(0) Pause Young (Normal) (G1 Evacuation Pause) 5M->5M(12M) 1.655ms
+[0.032s][info][gc] GC(1) Pause Young (Concurrent Start) (G1 Evacuation Pause) 9M->8M(20M) 2.531ms
+[0.032s][info][gc] GC(2) Concurrent Mark Cycle
+After creating 100000 account objects used memory: 10295 KB
+[0.035s][info][gc] GC(3) Pause Full (System.gc()) 10M->1M(16M) 2.248ms
+[0.036s][info][gc] GC(2) Concurrent Mark Cycle 3.252ms
+After clearing references and requesting garbage collection used memory: 1428 KB

@@ -1,0 +1,25 @@
+# Java
+*.class
+
+# C/C++
+*.o
+*.out
+*.exe
+cpp_memory
+cpp_memory_profile
+bank_account
+
+# Rust
+target/
+Cargo.lock
+rust_memory
+rust_memory_profile
+
+# Python
+__pycache__/
+*.pyc
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/

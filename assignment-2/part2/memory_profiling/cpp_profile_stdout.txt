@@ -1,0 +1,8 @@
+Creating account for user Furqaan with $1000 amount.
+Adding $500 to your account.
+Trying to withdraw $300 amount.
+Valid withdrawal amount!
+Furqaan's balance: $1200
+Single account memory was manually released with delete.
+Created 100000 account objects with new.
+All dynamically allocated accounts were manually released.
