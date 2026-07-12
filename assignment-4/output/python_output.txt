@@ -1,0 +1,62 @@
+Employee Schedule Manager - Python
+Use sample data? (y/n): y
+FINAL EMPLOYEE SCHEDULE
+==================================================
+Rules:
+- One shift per employee per day
+- Maximum 5 days per employee per week
+- Minimum 2 employees per shift
+
+Monday
+------
+Morning: Alex, Dana
+Afternoon: Brianna, Ethan
+Evening: Carlos, Fatima
+
+Tuesday
+-------
+Morning: Isabella, Carlos
+Afternoon: Grace, Alex
+Evening: Hassan, Brianna
+
+Wednesday
+---------
+Morning: Ethan, Hassan
+Afternoon: Fatima, Isabella
+Evening: Dana, Grace
+
+Thursday
+--------
+Morning: Alex, Dana
+Afternoon: Brianna, Ethan
+Evening: Carlos, Fatima
+
+Friday
+------
+Morning: Isabella, Carlos
+Afternoon: Grace, Alex
+Evening: Hassan, Brianna
+
+Saturday
+--------
+Morning: Ethan, Hassan
+Afternoon: Fatima, Isabella
+Evening: Dana, Grace
+
+Sunday
+------
+Morning: Alex, Dana
+Afternoon: Brianna, Ethan
+Evening: Carlos, Fatima
+
+EMPLOYEE TOTAL DAYS
+--------------------------------------------------
+Alex: 5
+Brianna: 5
+Carlos: 5
+Dana: 5
+Ethan: 5
+Fatima: 5
+Grace: 4
+Hassan: 4
+Isabella: 4
