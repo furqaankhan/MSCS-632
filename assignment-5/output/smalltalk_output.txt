@@ -1,0 +1,23 @@
+RIDE SHARING SYSTEM - SMALLTALK
+========================================
+All rides (polymorphic fare calculation)
+R-1001 | Standard | Central Library -> Tech Park | 4.80 miles | $10.21
+R-1002 | Premium | Riverside Hotel -> City Airport | 11.25 miles | $39.00
+R-1003 | Shared | North Campus -> Union Station | 6.40 miles | $8.40
+R-1004 | Premium | Art Museum -> Harbor Restaurant | 2.50 miles | $14.50
+Combined fare: $72.11
+
+Driver record
+----------------------------------------
+Driver D-204: Maya Chen | Rating: 4.9/5.0
+Completed rides: 2
+R-1001 | Standard | Central Library -> Tech Park | 4.80 miles | $10.21
+R-1002 | Premium | Riverside Hotel -> City Airport | 11.25 miles | $39.00
+
+Rider history
+----------------------------------------
+Rider U-731: Jordan Lee
+Requested rides: 3
+R-1001 | Standard | Central Library -> Tech Park | 4.80 miles | $10.21
+R-1003 | Shared | North Campus -> Union Station | 6.40 miles | $8.40
+R-1004 | Premium | Art Museum -> Harbor Restaurant | 2.50 miles | $14.50
