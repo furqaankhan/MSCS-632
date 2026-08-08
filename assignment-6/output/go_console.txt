@@ -1,0 +1,15 @@
+GO CONSOLE OUTPUT
+=================
+19:42:08.516759 Go data processing system starting
+19:42:08.516989 queued 16 tasks
+19:42:08.516997 go-worker-2 started
+19:42:08.516995 go-worker-1 started
+19:42:08.517018 go-worker-3 started
+19:42:08.517045 go-worker-4 started
+19:42:08.821267 go-worker-4 completed after processing 4 task(s)
+19:42:08.821241 go-worker-3 completed after processing 4 task(s)
+19:42:08.821251 go-worker-2 completed after processing 4 task(s)
+19:42:08.821222 go-worker-1 completed after processing 4 task(s)
+19:42:08.822158 processing complete: 16 results written to ../output/go_results.txt
+
+The worker order can vary between runs because tasks execute concurrently.

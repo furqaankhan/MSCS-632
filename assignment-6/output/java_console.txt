@@ -1,0 +1,15 @@
+JAVA CONSOLE OUTPUT
+===================
+INFO: Java data processing system starting
+INFO: java-worker-1 started
+INFO: java-worker-2 started
+INFO: java-worker-3 started
+INFO: java-worker-4 started
+INFO: Queued 16 tasks
+INFO: java-worker-3 completed after processing 4 task(s)
+INFO: java-worker-2 completed after processing 4 task(s)
+INFO: java-worker-4 completed after processing 4 task(s)
+INFO: java-worker-1 completed after processing 4 task(s)
+INFO: Processing complete: 16 results written to output/java_results.txt
+
+The worker order can vary between runs because tasks execute concurrently.
