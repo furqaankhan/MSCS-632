@@ -1,0 +1,24 @@
+ASSIGNMENT 8 - FAMILY TREE SAMPLE QUERIES
+=========================================
+
+?- setof(Child, parent(james, Child), Children).
+Children = [daniel,emily].
+
+?- setof(Sibling, sibling(emily, Sibling), Siblings).
+Siblings = [daniel].
+
+?- setof(Grandchild, grandparent(george, Grandchild), Grandchildren).
+Grandchildren = [daniel,emily,ethan,lucas,olivia,sophia].
+
+?- cousin(emily, olivia).
+true.
+
+?- cousin(emily, daniel).
+false.
+
+?- setof(Cousin, cousin(emily, Cousin), Cousins).
+Cousins = [ethan,lucas,olivia,sophia].
+
+?- setof(Person, descendant(george, Person), Descendants).
+Descendants = [daniel,emily,ethan,james,lucas,michael,olivia,sophia,susan].
+

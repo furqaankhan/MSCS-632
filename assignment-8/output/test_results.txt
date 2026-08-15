@@ -1,0 +1,16 @@
+[PASS] male/1 fact
+[PASS] female/1 fact
+[PASS] parent/2 fact
+[PASS] child/2 rule
+[PASS] grandparent/2 rule
+[PASS] sibling/2 rule
+[PASS] a person is not their own sibling
+[PASS] cousin/2 positive query
+[PASS] siblings are not cousins
+[PASS] recursive descendant/2 rule
+[PASS] children query returns the expected set
+[PASS] sibling query returns the expected set
+[PASS] grandparent query returns all grandchildren
+[PASS] cousin query returns all cousins
+[PASS] descendant query returns both generations
+All family tree checks passed.
