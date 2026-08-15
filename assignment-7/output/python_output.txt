@@ -1,0 +1,7 @@
+STATISTICS CALCULATOR - PYTHON (OBJECT-ORIENTED)
+================================================
+Input:  [12, 4, 7, 4, 9, 12, 3, 12, 4, 8]
+Sorted: [3, 4, 4, 4, 7, 8, 9, 12, 12, 12]
+Mean:   7.50
+Median: 7.50
+Mode(s): [4, 12]
